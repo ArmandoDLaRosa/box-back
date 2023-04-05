@@ -6,7 +6,7 @@ from .routes.user import user
 
 def create_app():
     app = Flask(__name__)
-    app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://postgres:01570376@192.168.3.35:5432/thebox"
+    app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://gxybdgkzxodngd:849b29123686ffba9dea3e30cd5b7fea68d1e659f6a3152e9d6b830c6188803c@ec2-3-230-24-12.compute-1.amazonaws.com:5432/d6egi1sged4ei0"
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
     app.config['CORS_HEADERS'] = 'Content-Type'
     
