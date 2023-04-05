@@ -9,7 +9,7 @@ class Qual(db.Model):
     # ATTRIBUTES    
     match_id = db.Column(db.String(50), nullable=False)
     robot_id = db.Column(db.String(50), nullable=False)        
-    analysis = db.Column(db.String(1000), nullable=False) # This is a json to keep flexible attributes
+    analysis = db.Column(db.String(2000), nullable=False) # This is a json to keep flexible attributes
     # Standard attributes    
     created_at = db.Column(db.DateTime,  default=datetime.utcnow, nullable=False)
     created_by = db.Column(db.String(100), nullable=False)

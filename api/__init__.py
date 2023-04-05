@@ -3,6 +3,7 @@ from .extensions import db, ma, crs
 from .routes.qual import qual
 from .routes.quant import quant
 from .routes.user import user
+from .routes.pit import pit
 
 def create_app():
     app = Flask(__name__)
@@ -15,6 +16,7 @@ def create_app():
     crs.init_app(app)
     
     app.register_blueprint(qual)
+    app.register_blueprint(pit)
     app.register_blueprint(quant)
     app.register_blueprint(user)
     return app

@@ -11,7 +11,6 @@ qual = Blueprint('qual', __name__)
 def create_qual():
     timestamp = datetime.utcnow()
     body =  request.json        
-    print(body)
     qual = Qual(match_id = body["match_id"], 
                        robot_id = body["robot_id"],                      
                        analysis = body["analysis"], 
