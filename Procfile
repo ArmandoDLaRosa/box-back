@@ -1,2 +1,1 @@
-cd server
-web: npm start
+web: gunicorn 'api:create_app()'
