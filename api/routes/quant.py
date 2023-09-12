@@ -12,8 +12,8 @@ quant = Blueprint('quant', __name__)
 def create_quant():
     timestamp = datetime.utcnow()
     body =  request.json    
-    quant = Quant(match_id = body["match_id"], 
-                       robot_id = body["robot_id"],  
+    quant = Quant(robot_id = str(uuid.uuid4()), 
+                        match_id = str(uuid.uuid4()), 
                         stats = body["stats"], 
                         created_at = timestamp, 
                         created_by = body["created_by"], 

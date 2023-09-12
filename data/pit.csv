@@ -1,0 +1,80 @@
+team_number,team_name,#_de_motores_chasis,#_de_motores_intake,#_de_motores_elevador,tipo_de_chasis,field31,field32,donde_gp,gp_nivel,tipo_mecanismo_intake,tipo_mecanismo_elevador,balancea,balanceo_auto,lenguaje,vision,camara,sensores,auto,mobility,gp_auto,nivel_auto,charge_station,gpick_auto,gp_numero,defensa,prioridad,field4.number,field4.currency,field5.number,field5.currency,tipo_de_wheels,field33,tipo_sensor
+2357,Sistem meltdown,15.0,2.0,4.0,Swerve,9.0,9.0,"['B', 'C']","['C', 'B']",1,['B'],1,1,1,1,3.0,0,1,1,3.0,"['C', 'B']",2,1,10.0,1,['A'],0.01,mt,10,kg,,,
+6026,Tiger strike,8.0,,1.0,Swerve,7.0,6.0,['C'],['A'],1,['B'],1,1,1,1,1.0,1,1,1,1.0,"['B', 'C']",2,1,8.0,1,['B'],10,in,10,lbs,['Ninguna'],31in,['Otro']
+3163,Roarbots,5.0,,,KOP,4.0,4.0,['A'],['C'],3,['A'],0,0,,1,,,0,0,,,,0,,0,,10,in,0,kg,['KOP'],31 in,
+2160,FROD,12.0,1.0,1.0,Swerve,10.0,10.0,"['A', 'B']","['A', 'B', 'C']",0,['B'],1,1,,1,2.0,1,1,1,2.0,['A'],2,1,5.0,1,"['B', 'D']",,,,,,"PHYTOE
+
+125 or 45 inch",['Otro']
+8086,RoboWarrios,4.0,,,Hybrid,8.0,8.0,['C'],['A'],1,['B'],1,1,2,0,,0,1,1,1.0,['A'],1,1,2.0,1,['D'],10,in,10,lbs,['Neumática'],"27 in
+Tiene una cubeta de cemento en medio, su prioridad es defensa
+Custom chasis",
+2373,The Cricket,7.0,1.0,1.0,Swerve,7.0,8.0,"['C', 'B', 'A']","['A', 'B', 'C']",1,['B'],1,,2,1,1.0,0,1,1,1.0,['C'],2,1,5.0,1,"['A', 'B', 'D']",,,,,,"112.5 
+",
+31,Prime Mobers,8.0,2.0,,Swerve,8.0,9.0,"['A', 'B']","['A', 'B']",0,,1,0,1,1,1.0,1,0,1,1.0,"['A', 'B']",2,1,5.0,1,['B'],10,in,10,lbs,['KOP'],"115 lbs
+37in",['Ultrasónico']
+2773,IRONDOGZ,4.0,1.0,2.0,Tread Tank,8.0,9.0,"['A', 'B', 'C']","['C', 'B', 'A']",1,['B'],1,0,1,1,2.0,1,1,1,1.0,['C'],2,1,2.0,1,"['D', 'A']",,,,,['KOP'],"W: 120
+H: 4’6
+
+They preferred making offense, they said they are pretty good at defense (ofense)",['Navx']
+1ew,we3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2083,Blitz,8.0,3.0,2.0,Swerve,7.0,8.0,['C'],"['B', 'C']",1,['B'],1,1,1,1,2.0,1,1,1,1.0,['A'],1,1,4.0,1,['A'],0,ft,,,,"45 in
+124 pds","['Giroscopio', 'Ultrasónico']"
+2165,BISONBOTS,8.0,,3.0,Swerve,8.0,9.0,['C'],"['A', 'B', 'C']",0,['B'],1,1,,1,2.0,1,1,1,1.0,"['C', 'A', 'B']",2,0,6.0,2,"['A', 'B', 'D']",,,,,,"H: 52 1/2
+W: 28. 32 inch
+
+PYTHON ",
+1209,Robohorneta,,,,Tread Tank,8.0,7.0,['A'],"['B', 'C', 'A']",1,['B'],1,1,1,1,1.0,0,1,1,1.0,['B'],1,1,,1,['B'],,,0,kg,['Omni'],"124 pds
+No sabían la altura 
+No tienen average 
+Lo hacen con la bendición de Dios ",
+6424,Barker Redbacks,8.0,3.0,2.0,Swerve,10.0,8.0,"['C', 'B', 'A']","['B', 'C', 'A']",1,['B'],1,1,1,0,,1,1,1,3.0,['C'],2,1,10.0,1,"['B', 'A']",,,,,,"H:
+W:",['Encoders']
+1209,Robohorneta,,,,Tread Tank,8.0,7.0,['A'],"['B', 'C', 'A']",1,['B'],1,1,1,1,1.0,0,1,1,1.0,['B'],1,1,,1,['B'],,,0,kg,['Omni'],"124 pds
+No sabían la altura 
+No tienen average 
+Lo hacen con la bendición de Dios ",
+5006,Apophis,8.0,1.0,2.0,Swerve,9.0,10.0,"['C', 'B', 'A']","['A', 'B', 'C']",1,['B'],1,1,3,0,,1,1,1,,"['C', 'B', 'A']",2,1,8.0,2,"['D', 'B', 'A']",,,,,,"H: 34 inch / w extension is 90 (I think)
+W: 90 lbs",['Encoders']
+3465,Omega factor,7.0,3.0,,Mecanum,8.0,9.0,['B'],"['B', 'C', 'A']",1,['A'],1,0,1,1,1.0,0,1,1,1.0,['A'],1,1,6.0,1,['B'],10,in,0.01,kg,,"42in
+90 pds
+Si le saben we
+Buen equipo muy unidos
+Solo pueden cubos y autónomo no perfecto ",
+7483,Mechanically challenged,6.0,1.0,1.0,West coast,,,"['C', 'B', 'A']",,,,,0,,,,,1,1,1.0,['C'],1,,,,,,,,,['KOP'],"113 lbs
+53 3/8 tall",
+2359,Robo Lobos,8.0,2.0,2.0,Swerve,8.0,10.0,"['A', 'B', 'C']","['C', 'B']",1,['B'],1,0,1,1,2.0,1,1,1,1.0,"['B', 'C']",2,1,8.0,1,"['A', 'B', 'D']",,,,,,"52 
+83 lbs",
+2395,Ninja Munkees,4.0,2.0,1.0,,7.0,10.0,"['C', 'A', 'B']","['A', 'B', 'C']",1,['B'],1,0,3,1,1.0,0,1,1,1.0,"['A', 'B', 'C']",2,0,2.0,0,"['A', 'B']",,,,,,"H:
+W: 65 lbs / 63.8
+
+Tienen mecanum",
+3931,Coockadoodld,8.0,1.0,5.0,Swerve,9.0,10.0,"['B', 'A']","['B', 'C', 'A']",0,['B'],1,1,1,0,,1,1,1,2.0,['C'],1,1,10.0,1,['B'],,,,,['Swerve'],"52 in
+108 lbs
+Están cambiando de llantas para ver si se pueden balancear mejor ",['Otro']
+4005,Tiger Country,8.0,0.0,2.0,Swerve,8.0,7.0,"['B', 'A']","['C', 'A', 'B']",0,['B'],1,0,3,1,1.0,1,1,1,1.0,['C'],2,0,7.0,0,"['A', 'B']",0,mt,,,,H: 4’5 1/2,['Encoders']
+6424,Stealth Panther Robotics,8.0,1.0,2.0,Swerve,10.0,9.0,"['C', 'A']","['A', 'B', 'C']",1,['B'],1,1,2,1,2.0,1,1,1,1.0,['C'],2,0,10.0,1,['A'],53.5,in,123.8,lbs,['Plaction'],,['Giroscopio']
+4646,Wildcard Robotics,4.0,2.0,4.0,Swerve,9.0,7.0,"['A', 'C']","['C', 'A']",1,['B'],1,1,1,1,2.0,1,1,1,2.0,['C'],1,1,8.0,0,['A'],,,,,,"W: 106 lbs
+H: 48","['Encoders', 'Otro']"
+1750,Thunderstorm Robotics,8.0,2.0,2.0,Mecanum,7.0,9.0,"['A', 'C']","['C', 'B', 'A']",1,['B'],1,1,2,1,1.0,1,1,1,1.0,"['A', 'B', 'C']",1,0,2.0,0,['B'],52,in,107,lbs,,,"['Giroscopio', 'Encoders']"
+2333,Creeh,4.0,2.0,2.0,Swerve,8.0,8.0,"['B', 'C']",['C'],1,['B'],1,1,1,1,2.0,1,1,1,1.0,['C'],1,1,5.0,0,"['A', 'B']",10,in,10,lbs,['Swerve'],Me sentí very Mexican judged y me dijeron q me uniera a su equipo ,['Ultrasónico']
+8711,The Midnight Ostrichs,4.0,2.0,1.0,Mecanum,7.0,7.0,['A'],"['B', 'A', 'C']",1,['B'],1,0,2,0,1.0,0,1,1,1.0,['C'],1,1,5.0,1,['B'],10,in,10,lbs,['Ninguna'],Pretty meh,
+2972,Gears and Buccaneers,4.0,,0.0,Swerve,9.0,10.0,"['A', 'C', 'B']","['A', 'B', 'C']",0,['A'],1,0,1,1,1.0,0,1,1,1.0,"['A', 'B', 'C']",2,1,8.0,1,"['B', 'A']",,,,,,"W: 92 lbs
+H: 6 ft
+
+",
+2352,Metal Mayhem,8.0,1.0,1.0,Swerve,8.0,10.0,['C'],"['C', 'B', 'A']",1,['B'],1,1,1,1,1.0,0,1,1,1.0,['C'],1,0,5.0,1,['A'],53.5,in,115,lbs,['Swerve'],,
+3507,UBOTICS,6.0,1.0,2.0,West coast,4.0,8.0,"['C', 'B', 'A']","['A', 'B']",0,['B'],1,1,1,1,2.0,0,0,0,,,,0,,1,"['D', 'A', 'B']",,,,,,"H: 32 ft
+W: 86 lbs",
+1986,Team Titanium,8.0,2.0,3.0,,8.0,8.0,"['A', 'B', 'C']","['A', 'B', 'C']",1,['C'],1,1,2,1,1.0,0,1,1,2.0,"['A', 'B', 'C']",2,1,7.0,0,"['A', 'B']",,,,,,"H:  60 inch
+W: 1'13",
+1339,Angelbotics,8.0,1.0,2.0,Swerve,8.0,9.0,['B'],"['C', 'B', 'A']",1,['B'],1,1,1,1,2.0,1,1,1,2.0,['C'],2,1,6.0,1,"['B', 'A']",44,in,112,lbs,['Swerve'],"Tienen nuevo driver
+Prefiere jugar ofensa",['Encoders']
+1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TestOnline,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+G,Jj,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,E,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rrf,Fgf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
