@@ -1,0 +1,450 @@
+Match,Robot,Equipo,PosInicial,taxi,Cargos en el upper hub,Cargos en el lower hub,Recoge cargo en el autónomo,Cargos en el upper hub,Cargos en el lower hub,Cargos Perdidos,Hace defensa,Wallbot,Zona de lanzamiento,Escalada,Defensa,Velocidad,Desconexion,Comentarios generales
+1,r2,701,44,Y,1,0,Y,4,0,4,N,N,"7, 33, 17",N,1,4,N,
+1,r1,192,20/31,Y,0,0,N,2,0,9,N,N,56/66,N,1,8,N,"No defendió, mal promedio de lanzamiento, no se pudo colgar"
+1,r3,2035,19,N,0,0,N,0,0,0,Y,N,,N,1,2,N,
+1,b1,751,53/41,Y,0,0,N,3,0,5,N,N,39/27 28/40 (centrado),1,1,6,N,
+1,b3,1967,30,Y,0,2,N,0,7,0,N,,"30,42",N,1,6,N,
+1,b2,4669,54,Y,0,0,Y,0,9,1,N,N,42/43,N,1,6,N,
+2,r2,2141,32/44,N,1,0,N,0,0,0,N,N,No,N,1,1,Y,Que gran partido
+2,r1,604,19,Y,4,0,Y,14,0,3,N,N,"19, 44, 45, 32",N,1,10,N,
+2,r3,668,43/44,Y,1,0,N,3,0,0,Y,N,18/19,N,9,10,N,
+2,b1,299,30,Y,0,0,N,0,0,0,Y,N,,N,1,3,N,"Caballea, no hace puntos, le hace defensa al robot desconectado "
+2,b2,971,54/55,Y,5,0,Y,15,0,2,N,N,"6/7 , 22, 66/67, 27/39",2,1,8,N,
+2,b3,5419,17,Y,1,0,Y,6,0,0,N,Y,"28,41, 52, 53",3,1,8,N,Se va a escalar 50 segundos antes de que se acaba el partido 
+3,r1,7777,43,Y,0,0,N,0,0,1,Y,N,,N,1,2,N,
+3,r2,7413,32,N,0,0,N,0,0,0,Y,N,,N,2,4,N,
+3,r3,1072,19,Y,3,0,Y,21,0,0,N,N,"19, 7, 20, 56, 57, 45",4,2,10,N,"Controla la categorización por color, pero no el número de pelotas que tiene (le marcaban falta)"
+3,b1,4973,41,N,0,0,N,,,3,N,N,,N,2,3,N,
+3,b2,8048,17,Y,0,0,N,0,8,0,N,N,"30, 31",N,1,3,N,
+3,b3,7415,54,Y,0,1,N,0,5,1,N,N,"54, 43",3,1,4,N,
+4,r1,4990,19,Y,0,1,N,2,0,2,N,Y,20,N,1,2,Y,Caballea mucho 
+4,r2,6918,43,Y,1,,Y,6,,2,N,N,"32,44,56",2,,3,N,"Muy malos para manejar, se pasan de giro y no pueden agarrar bien los cargos. Intentó climb a high y se quedó atorado"
+4,r3,6814,44/32,Y,0,1,N,0,2,8,N,N,"29, 44",N,1,3,N,Se aferran a lanzar de una misma posición 
+4,b1,649,17,Y,2,,Y,2,0,2,Y,N,"17,29",4,1,8,N,El intake ya no bajó y tuvieron que jugar defensa. No saben jugar del otro lado de la cancha se pierden mucho
+4,b2,3045,54,Y,0,0,N,0,0,0,N,N,,2,1,3,N,
+5,r1,840,56,Y,0,0,N,0,0,0,Y,N,,2,3,4,N,
+4,b3,5171,53,Y,3,0,Y,10,,1,N,N,"52,53,57",N,,3,N,"Falló un cargo en autónomo, indecisos para colgarse o seguir tirando, caballea"
+5,r3,581,23/24,Y,0,0,N,0,0,0,N,N,,N,1,1,Y,Se atora en el tope de la cancha 
+5,r2,4091,31,N,0,0,N,2,,2,,,"20,32,44",2,,1,N,Se volvió loco al inicio del teleoperado (parece que fue por la limelight buscando el hub) fallan mucho y tardan mucho en recoger cargos
+5,b1,5507,42,Y,1,0,Y,11,0,0,Y,N,"29,19",3,1,8,N,20 segundos para escalar 
+5,b3,6418,29,N,0,0,N,0,5,1,N,N,"54,44",N,1,4,Y,
+5,b2,670,53,Y,1,0,Y,5,,4,N,N,"39,51,52",2,,2,N,"Se le sale un cargo en auto, falla dos tiros apuntando 90 grados del hub en auto. Se ponen nerviosos si les hacen defensa"
+6,r2,2643,,Y,,,,,,,,,,N,,,,
+6,r1,6328,,Y,,,,,,,,,,4,,,,Match no disponible 
+6,r3,2489,,N,,,,,,,,,,N,,,,Match no disponible 
+6,b1,4171,,N,,,,,,,,,,N,,,,Match no disponible 
+6,b3,8262,,Y,,,,,,,,,,2,,,,Match no disponible 
+6,b2,4186,,Y,,,,,,,,,,N,,,,Match no disponible
+7,r1,5458,43,Y,0,2,Y,0,0,0,Y,N,,N,3,3,N,El intake Baja como el de steamex 
+7,r3,4255,19,Y,4,0,Y,5,0,2,Y,N,"18,19,20, 45",2,4,6,N,
+7,r2,5027,44,N,0,0,N,0,0,0,Y,N,,N,1,1,Y,"Se desconectaron después de dar un trancazo, sí se reconectaron. MUY LENTO para dar vueltas. No tenían muy claro a quien defender "
+7,b1,852,17,Y,0,0,N,4,,7,N,N,"16, 17, 27, 33",2,,2,N,"Se tardan mucho en acomodarse para tirar y fallan como quiera, la limelight está de adorno"
+7,b2,7419,54,Y,1,1,Y,5,,4,N,N,"51,16,28,33,56",2,,3,N,Tarda mucho tiempo en disparar el segundo cargo y hacen ciclos de un solo cargo. Si les hacen defensa mueren. Caballea un poco. Sabe tirar del otro lado de la cancha
+7,b3,2367,41,Y,0,0,N,0,0,0,Y,N,,N,1,5,N,"precargan el cargo en su chasis, no tiene intake ni nada. Intentó empujar cargos hacia el lado azul pero no parecía tan intencional. El robot es rápido pero no lo controlan bien, no tiene nada de fuerza para empujar, no saben jugar defensa"
+8,r1,766,56,Y,0,0,N,0,0,0,Y,N,,N,7,5,N,
+8,r2,972,19,Y,3,0,Y,7,0,0,N,N,"6,7,8,19,45",4,2,6,N,
+8,r3,6884,43,N,0,0,N,0,2,2,N,N,42,N,,3,N,Swerve Que no sabe cómo moverse
+8,b1,2144,41,Y,1,0,N,3,0,5,N,N,"17, 40, 53, 66",N,,4,N,No sabe agarrar pelotas 
+8,b2,8033,29,Y,2,0,N,5,0,1,N,N,"17,28",1,,4,N,
+8,b3,1678,54,Y,4,0,Y,4,0,2,N,N,"7,17,53,57",4,,7,N,
+9,r1,2854,44,,1,0,Y,0,0,2,Y,N,,N,1,3,Y,"No sabe agarrar pelotas, lo desconectan haciendo defensa"
+9,r2,4159,19,Y,0,0,N,0,0,0,Y,N,,N,1,2,N,Su autónomo se pasa al otro lado de la cancha (falta)
+9,r3,3482,32,Y,0,0,N,1,0,4,Y,N,"22,46",N,1,3,N,
+9,b1,4904,29,Y,0,0,N,2,0,3,N,N,"7,16",N,,5,N,
+9,b2,1351,54,Y,1,0,Y,7,0,4,N,N,"53,54,56,45,32,40",2,,5,N,"Falló dos cargos en auto, en el auto intenta recoger dos cargos a la vez y se le atoran. Sube a mid en 6 segundos, tarda en abrir sus ganchitos pero sube rápido"
+9,b3,7137,41,Y,1,0,N,1,0,7,N,N,"39,4,63",2,,4,N,"Tiran desde muy lejos pero fallan mucho, no intentaron hacer ajustes como acercarse un poco para ver si funcionaba"
+10,r1,254,19,Y,5,0,Y,24,0,2,N,N,"66,57,21,52,33",4,,10,N,Nice
+10,r2,8793,32,Y,1,0,N,0,0,0,Y,N,,N,3,4,N,Good partner 
+10,r3,199,43,Y,1,0,N,1,0,0,N,N,43,2,,3,N,1 min para escalar 
+10,b1,6918,54,Y,0,0,Y,4,0,1,Y,N,20,N,1,3,N,
+10,b2,8404,29,Y,1,0,N,3,,7,N,N,"40,5,16,56",N,,4,N,"En autónomo casi recoge un cargo rojo, caballea mucho, algunos cargos rebotaron y se salieron"
+10,b3,841,17,Y,1,0,Y,0,0,2,Y,N,42,1,1,4,N,"Falla un cargo en autónomo, no sabe defender y choca con sus compañeros de alianza, caballea"
+11,r1,8048,"43,56",Y,0,0,N,0,7,2,N,N,"42,43",N,,2,N,"WTF su autónomo tryhard, lanzan un cargo hacia el lado contrario para mover el cargo de la posición 66. No saben moverse en la cancha, un manejo torpe"
+11,r2,3045,32,Y,1,0,N,0,0,2,N,N,"45,57",2,4,4,N,Solo estuvo existiendo 
+11,b1,4091,41,Y,0,0,N,0,0,0,Y,Y,,2,6,3,N,"No intentó anotar, fue solo un robot de defensa."
+11,r3,2035,19,Y,0,1,N,6,0,2,N,N,"20,33,19,8",2,3,3,N,"Es lento para moverse pero bueno tirando a upper
+"
+11,b2,6418,17,Y,0,2,Y,0,5,2,N,N,41,N,1,4,N,"El robot tenía problemas con cruzar la cinta, se enfocaron en el lower hub"
+12,r1,1072,19,Y,2,0,Y,10,0,2,N,N,"20, 65,7,17",4,2,8,N,"Robot con buen movimiento dentro de cancha ademas cuenta con buen tiro para upper, y logra hacer transversal, muy buen robot"
+11,b3,971,55,Y,4,,Y,17,0,1,N,N,17,3,1,7,N,Tienen excelente puntería y torreta
+12,b1,4990,30,Y,0,0,N,0,1,1,N,N,43,N,2,5,N,no lograba acercarse para lanzar al lower hub
+12,r2,1967,"31,44",Y,0,2,Y,0,6,4,N,N,"44, 19",N,3,6,N,"El robot cuenta con una buena movilidad dentro de la cancha, pero se tiene que pegar al HUB, no contaron con un buen manejo de juego para lograr un climb en hangar"
+12,b2,5419,41,Y,3,0,Y,10,,2,N,N,41,4,1,7,N,"Muy buena puntería afectada solo por la defensa del otro team
+"
+12,r3,6814,"56,43",Y,0,0,N,0,0,0,Y,N,N.a ,N,5,4,N,Hace un intento de defensa ya que no cuenta con una buena movilidad logro cometer fouls
+12,b3,840,42,Y,0,0,N,0,0,0,Y,Y,,2,6,6,N,Muy rápidos defensas
+13,b1,604,54,Y,5,0,Y,13,0,2,N,N,10,3,1,9,N,Bastante rápidos con buena puntería mientras se movían
+13,b2,4171,41,N,0,0,N,0,0,0,N,Y,,N,1,1,N,Un robot que no hizo nada
+13,r1,701,44,Y,1,0,Y,6,0,3,N,N,"66,57,",N,3,6,N,"Robot lento, no cuenta con buenos drivers para lograr mas puntos en upper pero cuenta con un buen porcentaje de tiros en upper
+"
+13,b3,2643,29,Y,0,0,N,4,1,2,N,N,51,2,2,4,N,Tardaba mucho en apuntar
+13,r2,4255,19,Y,4,0,Y,6,0,3,N,N,19,3,3,6,N,"Robot con buena movilidad, realiza varios ciclos durante todo el match, solo que se tiene que pegar al HUB "
+13,r3,7415,44,Y,0,1,N,0,0,0,Y,N,N.a,N,5,6,N,"Cuenta con una buena agilidad, en los movimientos del robot pero no logro hacer mucho en la defensa contra swerve, de igual manera puede mejorar al cometer foul"
+14,b1,649,54,Y,2,,N,10,,6,N,N,28,3,1,8,N,Un robot q tenía escalada lenta
+14,b2,766,17,Y,0,0,N,0,0,0,Y,N,,4,2,6,N,Solo escaló
+14,r1,5027,"44, 56",N,0,0,N,0,0,0,Y,N,N.a,N,3,1,Y,"NO hace nada, hace menos que nada"
+14,b2,668,41,N,0,0,N,0,0,3,N,N,27,N,1,5,N,El robot tenía problema en lanzar rápido
+14,r2,2489,44,N,1,0,N,0,0,3,N,N,45,N,,5,N,"Realizo un intento de tiros en upper pero no logro nada despues de eso ya no se movio
+"
+15,b1,4669,41,Y,0,0,N,0,0,0,Y,Y,,N,2,3,N,Intentó ser defensa
+14,r3,972,19,Y,3,,Y,12,0,1,N,N,"52, 57, 19, 21",4,,10,N,Carreo a todo el equipo grande Irob Claw
+15,r1,7413,N.a,N,0,0,N,0,0,0,N,N,N.a,N,1,1,N,"No esta dentro del match, es un fantasma"
+15,r2,5507,42,Y,0,0,Y,6,,1,N,N,54,2,1,4,N,Promedio
+15,r3,4186,17/29,Y,2,0,Y,3,0,1,Y,N,53/54,2,3,5,N,
+15,r2,4159,44,N,0,0,N,0,0,0,Y,N,N.a,N,1,3,N,"NO se desconecta pero literal solo se mueve al otro lado de la cancha, minimo intento bloquear el Terminal"
+15,r3,670,19,Y,4,0,Y,5,0,2,N,N,"21,57, 44",2,,6,N,"Hace lo mejor que puede para carrear a su equipo
+"
+16,b3,199,29/30,Y,2,0,Y,6,0,1,N,N,18/19,N,1,8,N,
+16,b2,8404,55,Y,0,0,N,7,0,5,N,N,53,N,1,6,N,Tendía a ser empujado bastante fácil
+16,b1,3482,44,Y,0,0,N,0,0,4,N,N,"57,21,45",2,1,5,N,No logra ningun punto pero hizo un intento de hacer puntos durante el match
+16,b1,2854,53,Y,1,0,N,2,0,3,N,N,"52, 33",2,1,5,N,"Cuenta con buena movilidad pero le hacen defensa, no logra ensestar puntos, sus drivers no son buenos"
+16,r3,5171,19/20,Y,3,0,Y,7,0,3,N,N,"6/18, 8/20, 22/23",4,1,6,N,
+16,r2,2367,56,Y,0,0,N,0,0,0,Y,Y,,N,6,6,N,El robot se quedó atorado como 20 segundos en el cable de la torre
+17,r1,581,19,Y,0,0,N,0,3,3,N,N,"19,44,54",N,1,4,Y,"Se desconecto 3 veces durante el match, pero logro hacer tres cargos en lower, se movia descente para el tamaño que presentaba"
+17,b3,4904,41/42/53/54,Y,0,0,N,2,0,4,N,N,28/40/52/53,N,1,6,N,
+17,b2,299,30,Y,0,0,N,3,0,4,N,N,16,2,2,3,N,Su torreta lanzaba a robots del mismo equipo
+17,b1,192,54,Y,1,0,Y,4,,7,N,N,"16,33,18,5",N,1,5,N,"Cuenta con una buena velocidad y agilidad, aunquje no saben aprovechar bien sus herramientas ya que la torreta no la controlan del todo bien, causando que fallen mucho
+"
+17,r2,2144,32,,1,0,Y,4,,4,N,N,23,3,1,4,N,Era un robot con tiro lento
+17,r3,841,43/44,Y,1,0,N,7,0,7,N,N,"6/7/18/19, 42/54, 32/33/44/45",2,1,6,N,Lanzadores altos causan desbalance.
+18,r1,6884,44,Y,0,0,N,0,5,2,N,N,"44,29",N,2,5,N,"Cuenta con un buen movimiento dentro de la cancha aunque haya sufrido defensa, cuenta con un lado malo se tiene que pegar al HUB para hacer tiros"
+18,b1,7777,41,Y,0,0,N,0,0,1,Y,N,29,N,4,4,N,"Hace un intento de defensa ya que no logro hacer mucho, no cometio ningun foul, el foul cometido fue realizado por otro compañero de alianza."
+18,b2,5458,30,Y,,1,Y,,3,,Y,Y,30,2,4,3,N,Este robot se comió una pelota del equipo contrario
+18,b3,852,54,Y,0,0,Y,0,0,6,N,N,"66, 27/28/39/40",2,1,3,N,El sistema de lanzamiento era debil y no podian apuntar bien.
+18,r2,7137,19,Y,2,,Y,3,1,4,Y,Y,"8, 21, 22, 34, 35",2,3,6,N,"No realizó tanta defensa, cuando se le acercaban los robots del equipo contrario utilizaba una técnica al agarrarse del hangar por menos de 3 segundos para poder moverse entre los puntos 46 y 34 y seguir con el juego."
+18,r3,8793,44,Y,1,0,N,0,0,0,N,N,N.a,N,1,2,Y,"Logro hacer Taxi y ademas meter uno en el Upper, pero despues de eso se desconecto y ya no se movio"
+19,r1,6238,44,Y,1,0,N,0,0,0,Y,N,N.a,4,7,4,N,"Logro hacer una buena defensa de manera general, no cometio ningun foul ademas que logro hacer un traversal en end game."
+19,b3,8033,42,Y,2,0,Y,11,0,3,N,N,"40/51, 6/7/18/19, 44",N,1,10,N,
+19,b2,1351,29,Y,,,Y,6,0,2,N,N,"30, 31",N,9,4,N,"Intentó la escalada, se cayó."
+19,r2,7419,44,Y,1,0,Y,5,0,3,Y,Y,"44, 45, 64, 50, 51, 21",2,4,7,Y,"Aparte de tener desconexión combino defensa con varios tiros, tuvo varios fallidos pero estuvo en toda la cancha teniendo varias oportunidades de tiro"
+19,r3,1678,19,Y,4,0,Y,23,0,2,N,N,"17,20,33,39,40,45,56,57",4,,9,N,
+20,b2,8262,41,Y,2,0,N,4,,2,N,N,"41, 39, 50",2,1,6,N,
+20,b3,254,55,Y,5,0,Y,18,0,2,N,N,"49,59,54,64,65,18",N,3,10,N,
+20,r1,751,32,N,,,N,1,1,,N,,25,N,1,2,N,
+20,b1,972,29,Y,2,,,6,0,1,Y,N,"28, 17, 4, 16, 21, 27",3,4,6,N,
+20,r2,2141,56,N,0,,N,,,,N,N,,N,1,1,N,avanzó a mitad del partido y ya no se movió
+20,r3,4990,19,Y,,,,0,2,2,Y,N,"19,7,8",N,4,4,N,"El robot se comió varias pelotas al intentar quedarse detrás del hub, al mismo tiempo hacías varios tiros en lower hub al mismo tiempo que defendía "
+21,r1,4669,"43,56",Y,0,0,N,0,0,0,Y,N,,2,1,1,N,"Al principio el match se ve trabado. Se quedó con un cargo de su alianza todo el match. Es muy lento, no sabe y no puede hacer defensa"
+21,r2,2035,19,N,1,0,N,6,0,1,N,N,21,2,,1,N,"Se tardan mucho en alinearse para tirar. Su intake tiene problemas para recoger cargos, las terminan empujando lejos del robot"
+21,r3,4171,"32,44",N,0,0,N,0,0,0,N,N,,N,,,Y,"Se desconectó al empezar teleoperado después de cruzar el tope de los cables en 55,68 (lado feo de la cancha)"
+21,b1,5507,30,Y,1,0,,10,0,0,N,N,30,3,,8,N,"El autónomo es muy difícil de ver, el video se traba mucho. Se le pueden salir los cargos una vez dentro del robot. Tiene que sacar el intake para tirar. Hace ciclos de un solo cargo. Tiene catapulta"
+21,b2,5419,53/42,Y,2,0,Y,5,,1,N,N,"40,53,41",3,,5,Y,El principio del video no se ve. Parece que se desconectaron un momento pero regresaron. Traían los ganchos algo salidos y toparon con el low rung intentando entrar al hangar
+21,b3,6918,"42,55",Y,1,0,N,0,0,0,N,N,,N,,,Y,El video no se ve al incio. No se mueve en teleoperado
+22,r1,4186,19,Y,2,0,Y,2,0,3,N,N,"20,56",2,,2,N,"Se mueven muy lento y no tienen control, fallan sus cargos. Parece que el driver no ve bien el robot porque batallan mucho para recoger cargo"
+22,r2,668,"32,44",Y,0,0,N,3,0,4,N,N,43,N,,3,N,Tarda mucho en disparar los cargos. Si hace ciclos con dos cargos los falla ambos. Hace ciclos de un solo cargo. Falló un cargo en autónomo
+22,r3,2854,"44,56",Y,1,0,Y,5,1,3,N,N,"67,68,53,39,65",2,,6,N,un cargo rebota fuera del hub en autónomo. Muchos cargos entran pero rebotan fuera. Disparan desde lejos
+23,r1,2489,43,Y,0,0,N,2,0,3,N,N,45,2,,3,N,
+23,r2,2144,"56,43",Y,0,0,N,8,0,3,N,N,"23,34,69,51,39",N,,3,N,"Falla cargo de autónomo. Los cargos rebotan fuera del hub, tiran muy fuerte pero su puntería es muy mala, batallan para buscar cargos"
+23,r3,840,19,Y,0,0,N,0,0,0,Y,N,,2,3,4,N,"Se quedan sin saber que hacer, cometieron un foul por pegar mientras estaban en launch pad. Caballea feito"
+24,r1,4091,32,Y,1,0,Y,2,0,5,N,N,"45, 57",2,,1,N,
+24,r2,199,43,Y,1,0,Y,2,0,2,N,N,"30,52",2,,3,N,"Se desespera rápido, ciclos lentos"
+24,r3,192,19,Y,1,0,N,3,0,9,N,N,"7,20,21",1,,4,N,Torreta móvil sin ajuste automático
+24,b1,5027,17,N,0,0,N,0,0,0,N,N,,N,,,Y,plaquita sad
+24,b2,2643,41,Y,0,0,N,0,0,0,N,N,,N,,,Y,Fácil de mover
+24,b3,852,54,Y,0,0,Y,7,0,2,Y,N,28,2,2,4,N,
+25,r1,841,"18,19",Y,1,0,Y,4,0,3,N,N,"44,19,54,",2,,6,N,"Falla primer cargo en autónomo. Tambalea mucho, salta mucho cuando gira y caballea cuando frena"
+25,r2,5458,43,Y,0,1,Y,0,3,4,N,N,"41, 42",2,,4,N,"Falla un cargo de autónomo.  Intentan anotar del otro lado de la cancha pero no ven y se estampan con la estrucutra del hub en 41 y los cargos no llegan, no saben acomodarse para anotar. Los cargos solo los pueden recoger si están alineados al centro del intake, de otra forma no entran"
+25,r3,8048,21,Y,0,1,N,0,9,2,N,N,"43,31",N,,4,N,Hace ciclos con un solo cargo. Evitan tener el intake abajo
+25,b1,1351,17,Y,2,0,Y,8,1,1,N,N,"30,43,21",2,,3,N,En el autónomo recoge el cargo de la psoición 5 y lo expulsa hacia la driver station azul. Momento épico cuando  queda 1:28 un cargo les rebota y entra al lower hub (lo cuento como que lo anotaron)
+25,b2,5171,41,Y,1,0,N,4,0,0,Y,N,"27,54,57",4,1,3,N,"Le estorba a su alianza, su mecanismo de disparo no es muy eficiente (es lento)"
+25,b3,604,54,Y,3,0,Y,10,0,7,N,N,"19,28",2,,6,N,
+26,r1,670,44,Y,0,0,Y,14,0,2,N,N,"21,52,57",N,,5,N,
+26,r2,649,19,Y,2,0,Y,4,0,4,N,N,"7,21,22",3,,5,N,
+26,r3,4973,32,Y,0,0,N,0,0,0,Y,N,,N,2,2,Y,
+26,b1,299,30,Y,0,0,N,0,0,0,N,N,,2,,1,N,"todo el partido para escalar y lo hace mal
+"
+26,b2,8033,54,Y,2,0,Y,14,0,3,N,N,"17,21,28,57,68",N,,7,N,
+26,b3,751,41,Y,0,0,N,2,0,4,N,N,"21,33",2,,3,N,
+27,r1,1072,19,Y,3,0,Y,11,1,2,Y,N,"6,7,21,45,52,57",4,5,8,N,
+27,r2,6238,32,Y,1,0,N,0,0,0,Y,N,,4,3,4,N,"Se le atoran los cargo y por eso deja a la alianza con menos game pieces, interesante propuesta de escalador"
+27,r3,7137,44,Y,1,,Y,4,0,2,N,N,"7,19,21,34,57",N,,2,N,
+28,b1,7413,30,Y,0,0,N,0,0,0,Y,N,,N,1,1,Y,
+28,b2,766,41,Y,0,0,N,0,0,0,Y,Y,,4,4,4,N,
+28,b3,4904,53,Y,0,0,N,4,,2,N,N,"52, 52, 53, 52, 52, 40",N,1,4,N,
+28,r1,2367,56,Y,0,0,N,0,0,0,Y,N,,N,6,6,N,
+28,r2,8262,20,N,0,0,N,7,,7,,,"21, 45, 45, 56, 16, 16, 5, 5, 34, 17, 45, 32, 21, 33",N,1,6,N,
+28,r3,7777,19,Y,,,N,,,,Y,Y,,N,3,2,N,
+29,r1,1967,31,Y,0,,N,,,,Y,Y,,2,4,4,N,
+29,r2,1678,44,Y,2,,,25,,,N,N,"67, 67, 65, 39, 39, 17, 17, 20, 69, 69, 9, 17, 17, 7, 66, 17, 17, 8, 8, 6, 6, 6, 6, 5",3,1,6,N,
+29,r3,971,19,Y,4,,Y,15,,2,,,"4, 4, 3, 3, 69, 57, 47, 40, 40, 40, 65, 52, 22, 22, 45, 68, 22",N,1,6,N,
+29,b1,6418,30,N,,,N,,6,,N,N,"31, 31, 31, 31, 31, 31",N,1,2,N,
+29,b2,3482,41,Y,0,1,N,1,,3,N,N,"64, 64, 27",N,1,2,N,
+29,b3,8793,53,Y,1,,N,1,,4,,,"28, 52, 52, 40, 65, 52",1,1,2,N,
+30,r1,254,31,Y,3,,Y,23,,2,N,N,"33, 33, 20, 21, 5, 5, 63, 64, 57, 63, 63, 39, 39, 5,  65, 67, 65, 65, 57, 67, 21, 45",3,1,5,N,
+30,r2,7415,43,Y,,1,N,0,0,0,Y,Y,,N,2,3,N,
+30,r3,2643,56,N,,,N,,,,N,Y,,1,1,2,N,
+30,b1,7419,29,,1,,Y,6,,6,Y,N,"8, 8, 52, 52, 5, 5, 5, 7, 7, 6, 52, 52",2,2,3,N,
+30,b2,6884,41,Y,,,N,,9,,N,N,"43, 43, 43, 43, 43, 43, 43, 30, 30",N,1,4,N,
+30,b3,5507,42,Y,2,,Y,7,2,1,N,N,"30, 30, 30, 30, 42, 42, 42, 43, 43, 41",3,1,6,N,
+31,r1,852,19,Y,1,,Y,5,,6,,,"57, 57, 57, 57, 45, 45, 53, 53, 66, 57, 57",2,2,6,N,
+31,r2,4990,31,Y,1,,N,,,2,Y,Y,"33, 33",N,4,4,N,
+31,r3,8048,44,Y,,2,Y,8,,6,N,N,"43, 43, 31, 43, 43, 31, 31, 31, 43",2,1,3,N,
+31,b1,2489,42,Y,1,,N,,5,3,N,N,"16, 29, 30, 30, 30, 30, 30, 3",2,1,1,N,
+31,b2,4669,17,Y,,,N,,,,Y,Y,,1,4,4,N,
+31,b3,2854,29,Y,2,,Y,7,,5,N,N,"64, 64, 52, 52, 64, 64, 68, 68, 10, 10, 16, 16",N,1,6,N,
+32,r1,3045,32,Y,0,0,N,,0,4,N,N,"8.45,47",2,,3,N,Casi hace la falta de la lauch pad
+32,r2,4171,44,N,0,0,N,0,0,0,N,N,,N,1,2,Y,"Falta de launchpad al hacer defensa, se desconecta apenas lo toquen"
+32,r3,668,19,Y,0,0,N,3,0,3,N,N,"32,43",N,,3,N,
+32,b1,192,54,Y,2,0,Y,4,0,6,N,N,"5,8",N,,4,N,
+32,b2,670,53,Y,4,0,Y,11,0,5,N,N,"16, 39,52",3,,6,N,
+32,b3,5458,29,Y,0,2,Y,0,4,0,N,N,30,2,,4,N,
+33,r1,841,44,Y,2,0,Y,7,0,2,N,N,44,2,,5,N,
+33,r2,604,19,Y,5,0,Y,15,0,5,N,N,"16,33,40,52",N,,7,N,
+33,r3,6238,32,Y,0,0,N,1,0,0,Y,N,33,4,3,3,N,
+33,b1,751,17,Y,0,0,N,4,1,4,N,N,"5,8,16",N,,5,N,
+33,b2,4091,54,N,0,0,N,6,0,1,N,N,"28,65",N,,5,N,
+33,b3,6918,41,Y,0,0,N,5,,3,N,N,"53,65,66",4,,5,N,
+34,r1,199,44,Y,0,0,N,4,0,2,Y,N,"30, 42,43",N,1,4,N,
+34,r2,1072,19,Y,2,0,Y,11,0,2,N,N,"45, 53",4,,7,N,le falló el autónomo
+34,r3,299,43,Y,0,0,N,0,0,4,N,N,45,2,,4,N,
+34,b1,4159,30,N,0,1,N,6,1,1,N,N,"30,31",N,,3,N,
+34,b2,2035,54,Y,0,0,N,0,0,0,Y,Y,,2,2,3,N,
+34,b3,8262,17,Y,0,0,N,6,,9,N,N,"52,57, 61, 66,68",2,,5,N,
+35,r1,1678,19,Y,4,0,Y,24,0,2,N,N,"7,8,21,45,57,66,69",4,,10,N,
+35,r2,5171,56,Y,2,0,Y,8,0,0,N,N,"32,57",4,,7,N,
+35,r3,7413,44,Y,0,0,N,0,0,0,Y,N,,N,3,3,N,
+35,b1,840,54,Y,0,0,N,0,0,0,Y,N,,N,5,7,N,"Defensa agresiva, pero no se sabe las reglas y marca faltas
+"
+35,b1,4904,41,Y,0,0,N,3,0,4,N,N,28,N,,4,N,
+35,b3,5027,29,N,0,0,N,0,0,0,Y,Y,,N,1,2,N,
+36,r1,972,18,Y,2,0,Y,7,0,1,N,N,"52,65,66",3,,6,N,"un cargo a la vez, desastre al escalar"
+36,r2,1351,44,Y,1,0,Y,9,0,3,N,N,"19,29",N,,6,N,
+36,r3,5419,19,Y,3,0,Y,6,0,1,N,N,45,3,,5,N,
+36,b1,2367,17,Y,0,0,N,0,0,0,Y,N,,N,4,4,N,"Buena defensa, pero el robot es muy pequeño"
+36,b2,4973,29,Y,0,0,N,3,0,3,Y,N,"16,28",3,1,4,N,Faltó poco para un traversal
+36,b3,6884,54,Y,0,1,N,0,9,0,N,N,"29, 44,54",N,,4,N,
+37,r1,4186,19,Y,2,0,Y,0,0,0,Y,N,,2,3,5,N,
+37,r2,2144,32,Y,1,0,N,8,0,2,N,N,"33,57",N,,5,N,
+37,r3,6418,44,Y,0,2,Y,0,8,0,N,N,19,N,,5,N,
+37,b1,7137,17,Y,2,0,Y,5,0,4,N,N,"8,10,38,40",2,,4,N,
+37,b2,2141,29,Y,0,0,N,0,0,0,Y,N,,N,1,3,N,
+37,b3,649,54,Y,2,0,Y,5,0,1,Y,N,52,4,4,7,N,
+38,r1,4255,19,Y,4,1,Y,8,0,1,N,N,"21,43,45",3,,6,N,
+38,r2,581,43,Y,0,1,N,0,6,3,N,N,"21,42,43",N,,3,N,
+38,r3,3482,32,Y,0,1,N,0,1,3,N,N,"19,44",N,,3,N,
+38,b1,6814,17,Y,0,1,N,0,10,0,N,N,"19,29,54",N,,5,N,buen segundo pick
+38,b2,8793,53,Y,1,0,N,2,0,4,N,N,40,N,,4,N,
+38,b3,7777,41,Y,1,0,Y,0,0,5,N,N,54,2,,1,N,
+39,r1,971,19,Y,2,0,Y,16,0,4,N,N,"33,42,57",2,,9,N,
+39,r2,766,44,N,0,0,N,0,0,0,Y,N,,2,2,2,Y,"Se mueve hasta después de minuto y medio
+"
+39,r3,8404,42,Y,1,0,N,1,0,4,N,N,19,4,1,4,N,
+39,b1,701,17,Y,0,0,Y,0,0,0,Y,N,,2,6,7,N,"buen defensa, ayuda a que su equipo se desatore"
+39,b2,1967,30,Y,0,1,N,0,2,2,N,N,"30,42",2,1,3,N,
+39,b3,7419,54,Y,0,0,,2,0,3,N,N,28,4,,5,N,se atoró chistoso en el hangar
+40,r1,8033,31,Y,2,0,Y,14,0,3,N,N,"33,45,46,18",N,,9,N,"Falla un cargo en autónomo. Muy rápidos pero algo torpes porque chocan varias veces con su compañero de alianza, si les hacen defensa no saben que hacer, tardaron mucho en reaccionar y se fueron a tirar al launch pad (bien ahí pero se tardaron)"
+40,r2,2854,44,Y,1,0,Y,3,0,4,Y,N,"65,33,8",2,2,3,N,"Falla un cargo en autónomo. En un momento trae 3 cargos (2 rojos y uno azul) pero no los penalizan, fallan los 3 cargos. Van a colgarse con mucha anticipación (seg 34) y no necesitan tanto tiempo para escalar"
+40,r3,4171,,,,,,,,,,,,,,,,No se presentó al match
+40,b1,254,54,Y,4,0,Y,22,0,3,N,N,"65,68,17,39,52,33",4,,10,N,"Un cargo rebota y falla en autónomo. En un momento recoge 3 cargos (azul, azul, rojo) su programa de rechazo de cargos se puso tonto al tener 3 y rechazó el segundo azul y el rojo"
+40,b2,668,30,Y,0,0,N,2,0,5,N,N,"15,30,31,42",N,,3,N,"Pésima puntería, el robot tarda mucho en disparar, parece que solo pueden llevar un cargo a la vez"
+40,b3,4091,29,Y,0,0,N,0,0,0,Y,N,,2,1,2,N,Muy lentos para hacer defensa pero hacen lo que pueden. Se van a colgar con mucha anticipación (seg 40)
+41,r1,8048,56,Y,0,0,N,0,7,3,N,N,43,N,,2,N,Autónomo tryhard que avienta un cargo para mover el cargo de 66 y evitar el autónomo de Citrus. Giros torpes
+41,r2,6918,43,Y,1,0,N,6,0,0,N,N,"65,66",4,,6,N,Tira bien aunque tarda mucho en sus ciclos
+41,r3,670,20,Y,3,0,Y,11,0,2,N,N,"46,6,4,68",3,,5,N,"Tiene tiros muy precisos, se confunde el drive team si les bloquean el paso "
+41,b1,1678,54,Y,3,0,Y,31,0,0,N,N,"51,16,21,57,39",4,,10,N,
+41,b2,4990,30,Y,0,0,N,0,1,0,Y,N,42,N,1,3,N,Falla cargo en autónomo. El video se corta pero creo que sí anotan un cargo en el lower hub. Mala defensa
+41,b3,2643,41,Y,1,0,N,1,0,2,N,N,"15,38",2,,4,N,"Sus giros son muy torpes, especialmente cuando quieren hacer giros pequeños. Se colgaron de un solo gancho a pesar de tener mucho tiempo para colgarse"
+42,r1,4904,21,Y,0,0,N,0,0,6,N,N,"65,45,33,57",2,,5,N,"Tarda mucho en disparar, un shooter nada preciso. Tiene problemas pasando la línea de cables en 55-68."
+42,r2,199,43,Y,1,0,N,3,0,1,N,N,"42,43",2,,6,N,"Son rápidos pero su swerve jala raro, batallan cuando el robot pasa del reposo a movimiento"
+42,r3,751,32,Y,0,0,N,4,0,3,N,N,"33,6,17",1,,3,N,"cargo de autónomo rebota dentro del upper hub y se sale. Tiene problemas con su indexer y el cargo no sube al shooter, tienen que moverse hacia adelante y atrás para que jale (pasó cuando tenían un solo cargo)"
+42,b1,6884,42,Y,0,1,N,0,6,1,N,N,"43,31,30",N,,6,N,Si se colgó pero el robot quedó tocando el suelo. Mecanum
+42,b2,2489,30,Y,1,0,N,3,0,2,N,N,"28,5",2,,3,N,"Tiene chasis abierto y su intake no se extiende, son muy torpes para recoger cargo"
+42,b3,3045,54,N,0,0,N,0,0,3,N,N,"52,4",N,,2,N,Tuvieron que hacer un reboot del robot al inicio de teleop
+43,r1,5507,19,Y,2,0,Y,7,0,4,N,N,"43,3",2,,9,N,"Tiene catapulta, se sabe mover bien en la cancha. Evitó la mitad inferior de la cancha"
+43,r2,5171,20,Y,3,0,Y,7,0,1,N,N,"68,33",4,,6,N,"se tarda en disparar porque su mecanismo jala raro, les sobra tiempo en la colgada"
+43,r3,192,44,Y,1,0,Y,0,1,6,N,N,"57,65",N,,4,N,Parece que sí se desconectó (la RSL está parpadeando tan rápido que parecía fija) pero se seguía moviendo. Su torreta se volvió loca
+43,b1,2141,41,Y,0,0,N,0,0,0,Y,N,,N,2,3,N,Tiene swerve. Casi se cae varias veces y ni siquiera hubo contacto
+43,b2,4186,29,N,0,0,Y,0,0,3,Y,N,29,N,1,4,N,Tiene un mecanismo para rechazar cargos pero estaba rechazando los azules entonces su shooter no jalaba
+43,b3,4973,53,Y,0,0,N,0,0,2,N,N,"52,27",2,,2,N,Casi se caen en el climb
+44,r1,4255,19,Y,3,0,Y,9,0,0,N,N,"42,43,18",3,,6,N,"Fallan un cargo en autónomo. Les hacen defensa, batallaron para quitarse pero pudieron lidiar con eso. Sus ganchos son independientes eso hizo que se colgaran de uno solo y casi se cayeran"
+44,r2,6418,56,Y,0,2,Y,0,2,0,Y,N,42,2,5,4,N,El robot no parecía desconectado pero dejó de moverse y luego ya regresó 
+44,r3,8262,44,N,1,0,N,9,0,7,N,N,"34, 8,5,23",2,,8,N,No hizo el taxi por la esquinita del robot. Tarda mucho en levantar su intake y si no lo levanta no puede tirar
+44,b1,5458,29,Y,0,2,Y,0,1,0,Y,N,30,1,1,3,N,caballea mucho.  no saben a quien defender
+44,b2,7415,54,Y,0,1,N,0,6,2,N,N,"29, 42",3,,4,N,"Perdió dos cargos, intentó tirar un cargo y le cayó en el chasis. Cuando intento quitarse el otro perdió el segundo cargo. "
+44,b3,5419,53,Y,3,0,Y,6,0,2,Y,N,28,4,2,4,N,"Buena escalada, al principio no sabía si defender o anotar"
+45,r2,852,32,Y,0,0,N,0,0,1,N,N,40,N,1,1,N,"Falló un cargo en el autónomo, chocaba con todo, no sabía que hacer"
+45,r3,604,19,Y,3,0,Y,7,0,3,N,N,"10,21,33,45",3,,9,N,
+45,r1,649,44,Y,2,0,Y,5,0,4,N,N,"56,57",4,,4,N,"Fallo 4 tiros, entraba y se salía la pelota. "
+45,b1,1967,29,Y,,2,Y,0,8,0,N,N,29,2,2,6,N,
+44,b3,4159,54,N,0,0,N,0,0,2,Y,Y,42,N,4,4,N,Falló los únicos dos cargos que intentó anotar
+45,b2,581,53,Y,0,0,N,0,0,3,N,N,30,N,,1,N,Estuvo mucho tiempo intentando agarrar un cargo pero no pudo. No defendió. Por momentos se quedaba parado. 
+46,r2,5027,44,N,0,0,N,0,0,0,N,N,,N,1,4,N,
+46,r1,8404,44,Y,0,0,N,3,0,0,N,N,"20,45",N,,4,N,Intentó colgarse dos veces y falló las dos 
+46,r3,7777,19,Y,0,0,N,0,1,3,N,Y,"31, 56, 54 ",2,,3,N,No sabía lidiar con la defensa y perdió muchos cargos.
+46,b2,6238,41,Y,1,0,N,0,0,0,Y,N,,4,6,5,N,Tuvo mucho tiempo muerto 
+45,b3,1351,29,Y,2,O,Y,7,,3,N,Y,"29, 28, 56",2,,4,N,
+46,b1,971,54,Y,5,0,Y,18,0,3,Y,Y,"39,40,7,21,22,50,51,54,56",N,8,10,N,
+47,r2,8033,19,Y,2,0,Y,10,0,8,N,N,"45,40,17,54,20",N,,8,N,
+47,r1,766,44,Y,1,0,N,,0,0,Y,Y,,3,8,7,N,"Se quedaba quieto y no hacía mucho, no hubo desconexión pero intentaba defender contra el 2035, luego mejor decidió escalar en los últimos segundos "
+47,r3,701,56,Y,1,0,Y,6,0,1,N,Y,"20, 56 ,17, 10, g",2,,4,N,
+47,b2,7413,41,Y,0,0,N,0,0,0,Y,Y,,2,3,1,N,Le pegaba a robots de su alianza
+47,b3,2035,54,Y,0,0,N,2,0,3,Y,Y,"56,57,52,39",2,6,7,N,
+47,b1,8793,53,Y,1,0,N,6,0,8,Y,N,"66, 54, 28, 20 ",N,5,6,N,Defendió a los tres robots del equipo contrario y también  recargaba muy eficazmente. 
+48,r2,6814,44,Y,0,1,N,0,5,1,N,N,"43,42",N,,3,N,El shooter no respondió al final
+48,r3,2144,20,Y,1,0,N,3,0,3,Y,Y,"9,  8,  46, 34",N,4,5,N,
+48,r1,2367,56,Y,0,0,N,0,0,0,Y,N,,3,7,8,N,"Fue mayor defensa aunque por el tamaño el robot se enfrentó contra un wallbot, no intento meter cargos y prefirió subir en la escalada "
+48,b1,7419,29,Y,0,0,N,5,0,2,N,N,18,3,,2,N,
+48,b3,1072,54,Y,0,0,Y,8,0,3,Y,Y,"28,51,52,44,20,8,66,29",4,8,7,N,"Logró salir en el autónomo pero tuvo 4 cargos perdidos, no se direccionaba al hub y las llevaba hacia la derecha"
+48,b2,841,29,Y,0,0,Y,3,4,6,N,N,"17,56,43,28,43",1,,5,N,
+49,r1,299,43,Y,0,0,N,0,0,3,N,N,43,2,,1,Y,Caballea mucho y se desconecto.
+49,R3,4669,32,Y,1,,,,3,,N,N,43,1,,1,N,Es muy lento para agarrar  cargos 
+49,b3,3482,29,Y,1,0,N,0,2,3,N,N,29,1,,3,N,"Muy lento, poca precisión"
+49,r2,972,19,Y,2,0,Y,6,0,2,Y,N,"52,7,45,21,22,57",4,4,5,N,"Movió pelotas de la alianza contraria llevándolas a la terminal para sacarlas de la cancha, utilizó el launchpad para poder lanzar un tiro al upper hub, perdió muchas oportunidades de tirar entre el 5-7 por la defensa del otro equipo."
+49,b2,254,19,Y,5,0,Y,27,0,,,,"4,5,9,23",4,,10,N,"Dos veces hizo tiros de 3 cargo, incluso anotando uno roji"
+49,b1,840,29,N,0,0,N,0,0,0,Y,N,,2,2,3,N,"Se quedó parado como chilaquil y se trabó, parecí disco rayado."
+50,r3,5507,43,Y,2,0,Y,10,0,0,N,N,43,3,,10,N,Muy buen rendimiento y puntería
+50,b3,199,53,Y,0,0,N,3,1,2,N,N,"30, 31 ",2,,3,N,
+50,b2,8048,54,Y,,2,Y,,2,0,N,N,42,N,,4,N,Batalla con las vueltas
+50,r1,4255,19,Y,0,0,N,5,0,1,Y,N,"42,43,54",4,2,5,N,"En el autónomo el robot se descontroló y se dirigió directamente al robot de su propio equipo (7137), se dió muchas vueltas después y chocó con el hub, en lo que siguió del partido tele operado se tardaban mucho en ajustarse para tirar, querían un ángulo perfecto y no lo lograban, también llegó a checar en el tele operado."
+50,R2,7137,32,Y,0,0,N,1,,4,N,N,"57,45,33,21",N,,3,,No puede recoger bien las pelotas
+50,b1,668,29,Y,2,0,Y,0,0,0,Y,Y,,N,7,6,N,Had a.
+51,r3,4904,20,Y,1,0,N,1,0,2,N,N,21,2,,6,N,"Fallos en el intake, mala zona de lanzamiento"
+51,b3,2141,53,Y,0,0,N,0,0,0,Y,N,,N,1,2,N,Caballeaba mucho 
+51,b1,1967,29,Y,0,2,Y,0,7,0,N,N,30,2,1,2,N,Va muy lento 
+51,r1,4973,19,Y,0,0,N,0,0,0,N,N,,N,1,2,Y,"Se desconectó hasta el minuto 1:31, luego siguió pero se iba en pausas, no hizo ningún cargo y al final optó por moverse a la escalada. No logró escalar."
+51,R1,6918,43,Y,,,Y,1,,4,N,N,"47,45,28,17",N,,3,,Falla mucho 
+51,b2,5458,42,Y,0,2,Y,0,6,2,N,N,42,N,,4,N,Muy malo para recoger cargos
+52,r1,5419,20,Y,4,0,Y,12,0,6,N,N,"21,45,52,57",3,,7,N,Cuando frena su robot caballea
+52,r2,8404,19,N,0,0,N,0,0,0,N,N,,2,,5,N,"Solo se cuelga, sus ganchos no coincidieron y no pudieron seguir subiendo"
+52,r3,4091,43,N,0,0,N,0,0,0,Y,N,,N,7,5,Y,Hizo como 11 segundos de pinning y nadie vio. Se desconectó de la nada
+52,b1,2489,30,,,,,4,0,1,N,N,"5,39",2,,3,N,Extremadamente lento para recoger cargos
+52,b2,192,17,Y,1,0,N,0,0,0,Y,N,,N,1,3,N,Muy extraña la defensa que hicieron
+52,b3,1678,54,Y,4,0,Y,27,0,1,N,N,"45,57,52,40,16,6",4,,10,N,
+53,r1,701,32,Y,1,0,Y,3,0,5,N,N,"57,7,65",N,,5,N,Falla un cargo en autónomo
+53,r2,852,44,Y,1,0,Y,0,0,0,Y,N,,N,8,6,N,De repente medio se pierde de a quien defender
+53,r3,1351,19,Y,3,0,Y,3,0,6,N,N,"43,33,30",N,,4,N,"Falla dos cargos en autónomo, Tarda en buscar cargos, se intentó colgar pero se quedó tocando el suelo"
+53,b1,8033,42,Y,3,0,Y,11,0,0,N,N,"15,4",N,,9,N,No saben lidiar con la defensa
+53,b2,4990,30,Y,0,0,N,0,0,0,Y,N,,N,1,2,N,Falla cargo de autónomo. Muy lento y parece no tener fuerza para empujar
+53,b3,4186,29,Y,1,0,N,3,0,2,N,N,"40,54,53",N,,4,N,Tarda muchísimo en acomodarse para disparar
+54,r2,6814,19,Y,0,0,N,0,0,5,Y,N,"31,43",N,1,3,N,"No saben acomodarse para tirar (tiran al lower hub). Tardan muchísimo en recoger cargos, le estorban a sus compañeros para recoger cargos. No tienen fuerza para empujar"
+54,r1,2854,44,Y,1,0,Y,8,0,3,N,N,"58,63,65,39",N,,5,N,Falla un cargo en autónomo. Puede tirar desde lejos
+54,r3,751,20,Y,0,0,N,1,0,4,N,N,"21,7",2,,2,N,Falla el cargo de autónomo. Si agarra dos cargos a la vez tiene jamming en el indexer. Caballea muchísimo
+54,b1,2643,41,Y,0,0,N,2,0,4,N,N,"5,52,28",N,,1,N,Falla cargo de autónomo. Tiene muchísimos problemas para recoger cargos
+54,b2,971,54,Y,5,0,Y,13,0,3,N,N,"57,69,21,6,52",3,,8,N,"Su climb a high tiene mucho swing, es un problema si alguien más se quiere colgar después"
+54,b3,7413,17,Y,0,0,N,0,0,0,Y,N,,2,2,,N,"Aleja cargos rojos, no parece que sea a propósito "
+55,r1,8793,56,Y,1,0,N,0,0,0,Y,Y,,N,3,,N,"Cambia de robot a quien defiende, fue buena decisión porque era mejor antoando al segundo que defendió"
+55,r2,604,19,Y,3,0,Y,17,0,2,N,N,"45,21,68,66,33",4,,10,N,Falla cargo en el autónomo. Muy inteligentes para solo tirar un cargo y evitar la presión de la defensa pero aprovechar la ventana de tiempo
+55,r3,5027,44,N,0,0,N,0,0,0,N,N,,N,,1,N,Solo va a colgarse a low pero no funciona
+55,b1,8262,17,Y,1,0,Y,7,0,3,N,N,"5,7,21,27,39",N,,7,N,"Falla cargo en autónomo. Al iniciar autónomo se da vuelta de 180°, probablemente necesita hacerlo para que la limelight funcione."
+55,b2,670,53,Y,4,0,Y,8,1,2,N,N,"39,51,66",3,,5,N,"Algo torpe en el manejo, se choca con el truss del hangar y batalla para salir"
+55,b3,2144,41,Y,0,0,N,0,0,0,Y,N,,N,,4,Y,"Falla cargo del autónomo. Se desconectó 3 veces, se desconecta cuando caballea, especialmente cuando pasa por la línea de 55,68"
+56,r1,841,44,Y,2,0,Y,0,6,5,N,N,"43,42",N,,2,N,Problemas para recoger cargos ¿Por qué en autónomo anota en el upper y en teleop en el lower?
+56,r2,649,19,Y,2,0,Y,8,0,2,N,N,"58,45,53",N,,6,N,Falla un cargo de autónomo. No pueden lidiar con la defensa
+56,r3,6884,32,Y,0,0,N,0,2,0,Y,N,43,N,2,3,N,"Se hacen mensos un buen rato, como que no saben a quien defender"
+56,b1,4171,17,N,0,0,N,0,0,0,Y,N,,N,4,2,N,Intenta defender y pone nervioso a 649 pero se desconectan tras un golpe
+56,b2,3482,29,Y,0,0,N,0,1,1,N,N,42,2,,3,N,Como que intentó hacer defensa pero no salió bien. Se tardó como un minuto en recoger un cargo
+56,b3,1072,54,Y,3,0,Y,16,0,1,N,N,"29,5,52,28",N,,7,N,Intake es demasiado flexible y wobbly
+57,r1,6418,44,Y,0,2,Y,0,9,0,N,N,43,2,,3,N,Al inicio tardó en empezar a agarrar cargos 
+57,r2,840,32,N,0,0,N,0,0,0,N,N,,N,2,3,N,A veces se queda quieto pero no se desconecta. Su defensa fue meterle unos dos trancazos a cheesy
+57,r3,4159,19,Y,1,0,N,2,0,4,N,N,"31,3",N,,3,N,"Se desconectó tras pasar por la línea 55,68"
+57,b1,766,17,Y,1,0,N,0,0,0,Y,N,,2,1,3,N,"Como que quería defender pero realmente no había a quien defender, se nota que no pueden hacer otra cosa que no sea defender"
+57,b2,254,54,Y,5,0,Y,22,0,3,N,N,"5,7,21,28,52,66,40",2,,10,N,"El climb no jaló, se quedaron en mid"
+57,b3,6238,41,Y,0,0,N,0,0,7,N,N,"40,41,28",4,,1,N,Falla cargo en autónomo. Se va a colgar al 0:45 y para el 0:30 ya están en traversal 
+58,r1,2035,43,Y,0,0,N,5,0,3,N,N,"68,66,52",2,,2,N,Falla cargo en autónomo. Cuando hace ciclso de dos cargos fallan el segundo
+58,r2,7777,19,Y,0,1,N,0,2,5,N,N,"7,45",2,,2,N,Pésimo para recoger cargos
+58,r3,581,21,N,0,0,N,0,0,0,N,N,,N,,,Y,Nunca se mueve
+58,b1,5171,53,Y,3,0,Y,3,0,4,N,N,"15,16,38,39",4,,7,N,"Entre más lejos dispara tiene muchísma menos precisión, ya detectaron su sweetspot que es entre 15,16 y 28"
+58,b2,7419,41,Y,1,0,N,1,0,3,N,N,"21,8",4,,3,N,"No puede rechazar cargos rojos, si agarra uno azul y luego uno rojo tiene que sacar ambos del robot"
+58,b3,972,17,Y,2,0,Y,7,0,1,N,N,"65,66,39,68",1,,5,N,Se cuelgan en low para evitar chocar con sus compañeros mientras se cuelgan
+59,r1,3045,,Y,,,,,,,,,,2,,,,Match no disponible
+59,r2,7137,,Y,,,,,,,,,,N,,,,Match no disponible
+59,r3,299,,Y,,,,,,,,,,N,,,,Match no disponible
+59,b1,7415,,Y,,,,,,,,,,4,,,,Match no disponible
+59,b2,2367,,Y,,,,,,,,,,3,,,,Match no disponible
+59,b3,4669,,Y,,,,,,,,,,N,,,,Match no disponible
+60,r1,5419,20,Y,2,0,Y,9,0,1,N,N,"21,68,52,40",3,,7,N,"Falla cargo en autónomo. Se atoran en la línea 55,68 después de un trancazo que les dio 5507, su compañero de alianza les pega para que se pueda desatorar. Comunicación inmediata"
+60,r2,4904,32,N,0,0,N,0,0,0,Y,N,,2,3,,N,Falla cargo en autónomo. Salva al 5419 de quedarse atorado
+60,r3,8033,44,Y,1,0,Y,9,0,6,N,N,"58,45,7",N,,8,N,Falla un cargo en autónomo. No sabe lidiar con defensa
+60,b1,199,30,Y,1,9,Y,2,0,2,N,N,"31,34",N,,5,Y,Se desconectan pegados al hub. 
+60,b2,5507,42,Y,2,0,Y,9,0,3,N,N,"30,42",3,,9,N,Falla un cargo en autónomo
+60,b3,4990,41,Y,0,1,N,0,0,0,Y,N,,N,2,3,N,"Demasiado lento como para poder defender bien, intenta estorbar pero no lpgra mucho"
+61,r1,668,43,Y,0,0,N,2,0,5,Y,N,43,N,1,3,N,"se tiene que pegar al hub para tirar, había un cargo ahí y no lo quitó. Cuando podía defendía al 1967 que es un everybot"
+61,r2,7413,44,Y,0,0,N,0,0,0,Y,N,,2,2,2,N,"De un trancazo desconecta al 2144 que después se reconecta, después de que se desconecta pierden toda la noción de qué hacer durante el match"
+61,r3,1351,19,Y,2,0,Y,15,0,1,N,N,"7,20,41",N,,6,N,Falla un cargo en autónomo. Si le hacen defensa prefiere no tirar pero no se quita para evitar la defensa
+61,b1,2144,17,Y,0,0,N,6,0,2,N,N,"40,52,16,21,33",N,,3,N,"Falla cargo de autónomo. Sus tiros son muy bajos entonces tiene que hacerse hacia atrás, las zonas de lanzamiento son casi en la orilla hacia las driverstations"
+61,b2,4091,53,Y,0,0,N,0,0,0,Y,N,,N,1,3,Y,"Se quedó con dos cargos todo el match, posiblmente tenía fallas con el shooter. Se desconectó pero se pudo reconectar como 3 segundos antes de desconectarse de nuevo"
+61,b3,1967,30,Y,0,1,Y,0,10,0,N,N,"30,42,43",2,,2,N,"Falla un cargo en autónomo, parece que si no lo acomodan bien el autónomo falla. El 1351 se los llevó de paseo, estando el 1967 en posición de t-bone, potente el 1351 para empujar "
+62,r1,8262,19,Y,2,0,Y,15,0,4,N,N,"34,21,51,46",2,,8,N,
+62,r2,2854,44/56,Y,1,0,Y,4,0,6,N,N,"68,57,7,16",2,,4,N,"Un cargo se sale del upper hub en el autónomo. Se atoran en la línea de cables 55,68. Le dicen a 8262 que les pegue para poder salir"
+62,r3,841,44/32,Y,1,0,N,0,0,0,Y,N,,N,3,5,N,Intentaron defender a Citrus pero no tenían la velocidad para que eso saliera bien
+62,b1,4186,41/29,Y,1,0,N,0,0,0,Y,N,,N,1,1,N,"Lamentable, no sabe que hacer en el match e intenta defender pero no sabe hacerlo y es demasiado lento para hacerlo"
+62,b2,1678,54,Y,5,0,Y,21,0,0,N,N,"16,28,7,21,33,39",4,,10,N,"Tuvo un momento de casi caída al pasar por 55,68 y recibir un golpe pero el riesgo fue mínimo"
+62,b3,4255,17/29,N,0,0,N,5,0,0,N,N,"30,31",3,,4,N,"Se le sale un cargo del robot, si no guarda el intake de inmediato al recoger el cargo se le pueden salir"
+63,r1,8048,56,Y,0,0,N,0,10,1,N,N,"31,43",2,,3,N,En el autónomo avienta el cargo para mover el cargo de 66 y arruinarle el autónomo de Chessy.
+63,r2,192,19/20,Y,1,0,Y,0,0,0,N,N,,N,,1,N,"No hizo nada, se pierde durante el match. Yo creo que algo falló con el robot."
+63,r3,766,32/44,Y,0,0,N,0,0,0,Y,N,,4,1,3,N,Se cuelga a traversal en 20 segundos
+63,b1,5458,30,Y,0,2,Y,0,6,1,N,N,"31,31",2,,3,N,Malo para dar giros pequeños
+63,b2,6814,41/29,Y,0,0,N,0,5,0,N,N,29,N,,2,N,"Falla cargo en autónomo, Tiene muchos problemas para recoger cargos"
+63,b3,254,54,Y,3,0,Y,14,1,9,N,N,"65,66,45,39,40,52",4,,10,N,Después de un contacto con 192 su puntería desapareció y luego la recuperan
+64,r1,5171,20/31,Y,3,0,Y,6,0,2,N,N,"69,57,33",4,,7,N,Sin que los defiendan trabajan muy bien
+64,r2,7777,32/44,Y,0,0,N,0,2,2,N,N,"43,44",N,,2,N,No encuentran el punto desde donde pueden atinarle al lower hub
+64,r3,840,56,Y,0,0,N,0,0,0,Y,N,,N,3,3,N,"TBA marca como que se cuelga en traversal pero fue por G208, reciben contacto cuando se intentan colgar "
+64,b1,4159,30,Y,1,0,N,6,0,1,N,N,"30,31",N,,4,N,Si le hacen defensa tiene muchos problemas para reaccionar
+64,b2,751,53/42,Y,1,0,N,3,0,4,N,N,"52,67,28",N,,3,N,"Se le salen los cargos, batalla para ir a recoger cargos"
+64,b3,4171,54/55,N,0,0,N,0,0,0,Y,N,,N,2,2,N,"Giros torpes. Referees marcan contacto con 840 cuando estaba en el hangar, regla G208 = 840 con traversal"
+65,r1,6918,19,Y,1,0,N,2,0,2,N,N,"45,21",3,,3,N,"Muy lentos para buscar cargos, se fueron a colgar faltando 45 segundos, al 0:11 ya estaban en high"
+65,r2,6418,56,Y,0,2,Y,0,10,0,N,N,"42,43,31",N,,4,N,Si agarra dos cargos al mismo tiempo se atoran. 
+65,r3,299,43,Y,0,0,N,0,0,0,Y,N,,N,4,4,N,"Falla cargo en autónomo. Mete buenos trancazos. Desde el inicio agarra dos cargos azules, se dan cuenta de que no se pueden colgar y evitan el riesgo de chocar con 6918 y que no cuente en climb. Cuando gira brincotea mucho, caballea bastante sin embargo van con todo a pegar, sin miedo a caerse"
+65,b1,5027,42,N,0,0,N,0,0,0,Y,Y,,N,1,2,N,"Defendían al 6918 quienes se fueron a colgar con mucho tiempo, reaccionar bien al buscar a otro equipo para defender"
+65,b2,6884,30,Y,0,1,N,0,11,1,N,N,"30,31,42",N,,4,N,Buen awarness para no entrar al hangar rojo y evitar pegarle al 6918
+65,b3,701,53,Y,1,0,Y,7,0,5,N,N,"52,40,16",2,,5,N,Falla un carrgo en autónomo. Tira dos cargos hacia afuera de la cancha
+66,r1,7419,19,Y,1,0,Y,7,0,5,N,N,"39,16,21,7",N,,5,N,Se cuelgan a high pero no se los cuentan
+65,r2,2035,43,N,1,0,N,2,0,6,N,N,"57,45,21",2,,3,N,Sacó cargos rojos por la terminal intentando agarrarlos
+65,r3,2141,32/44,Y,0,0,N,0,0,0,Y,Y,,N,2,6,Y,Lo desconectan porque se le caen los bumpers tras un choque con 3482
+66,b1,670,53,Y,4,0,Y,6,0,7,N,N,"3,15,27, 52, 66",3,,5,N,Si van a toda velocidad para agarrar un cargo se les sale
+66,b2,3482,30/17,Y,0,0,N,0,0,1,N,N,29,2,,2,N,No hizo nada
+66,b3,2489,30,Y,1,0,N,1,0,5,N,N,"57,66,52",N,,2,N,No saben acomodarse para tirar. Muy lentos para tirar
+67,r2,8793,20,Y,1,0,N,0,0,0,Y,N,,N,3,5,N,"Chocó mucho con 852, no tienen la velocidad para defender a 604 entonces se va contra 972"
+67,r1,852,56/44,Y,0,0,N,0,0,0,Y,N,,N,8,4,N,"8793 lo chocó mucho. No tiene la velocidad para defender al 604 entonces defiende al 1072, lo pinnea contra la pared del driver station"
+67,r3,3045,19,Y,0,0,Y,0,1,4,N,N,"31,43",2,,4,N,Escalan a mid pero lo cuentan como traversal porque el 1072 les pegó estando en el hangar
+67,b1,604,17/29,Y,2,0,Y,10,0,3,N,N,"16,40,7,21,28",4,,9,N,Recogen un cargo rojo en autónomo y lo avientan hacia el hangar  para alejarla. Casi tira al 8793 quien le intentaba hacer defensa
+67,b2,1072,54,Y,0,0,Y,1,0,0,N,N,45,N,,6,N,Posicionaron mal el robot y en el autónomo falló todos sus cargos. El 852 no los dejó hacer nada. Chocan con el 3045 adentro del hangar
+67,b3,972,29/41,Y,0,0,N,8,0,0,N,N,"65,27,52",3,,7,N,"Cargo del autónomo se sale del hub. Casi se cae pasando por la línea 55,58"
+68,r1,4669,19/20,N,1,0,N,0,0,0,N,N,,N,,,Y,Parecen conectados pero no se mueven en todo el match
+68,r2,2643,44/56,Y,0,0,N,0,0,0,N,N,,N,,,Y,Falla cargo de autónomo. Se desconectan durante todo el match
+68,r3,8404,19,N,0,0,N,10,0,3,N,N,"21,45,68",4,,5,N,"Se va a colgar faltando 55 segundos, tiene problemas para subir a traversal pero sí lo logra"
+68,b1,581,30,Y,0,0,N,0,0,4,N,N,30,N,,7,N,"Falla cargo de autónomo. Falla mucho sus cargos, al final no le queda de otra más que dar vueltas"
+68,b2,4973,29/41,Y,0,0,N,0,0,5,N,N,"65,40,67",2,,3,N,"Casi se cae en el hangar, solo se agarra con un gancho. Pésima puntería"
+68,b3,7137,"53,54",Y,0,0,Y,7,1,7,N,N,"40,52,65,66",N,,4,N,Falla dos cargos en autónomo. Falla muchos cargos
+69,r1,7415,32/44,Y,0,1,N,0,0,0,Y,N,,N,2,2,N,Le toma como 45 segundos llegar a traversal
+69,r2,971,19,Y,4,0,Y,14,0,3,N,N,"22,57,65,28",N,,8,N,Falla un cargo en autónomo
+69,r3,649,56/44,Y,2,0,Y,12,0,1,N,N,"6,33,57,68",2,,9,N,
+69,b1,4904,29/17,Y,1,0,N,0,0,5,N,N,"6,16,40,52",N,,3,N,Nunca pudo acomodarse para tirar
+69,b2,6238,53/54,N,0,0,N,1,0,1,N,N,"66,4",4,,4,N,Traversal en 13 segundos
+69,b3,2367,41,Y,0,0,N,0,0,0,Y,N,,N,7,8,N,Suficientemente rápido para aguantarle el ritmo a spartan
+70,r1,199,43,Y,0,0,N,0,0,0,Y,N,,2,1,6,Y,"El robot se puso tonto después del autónomo y se estampó con la driver station y lo pudieron echar a andar pero decidieron colgarse con mucho tiempo, seguramente seguía fallando"
+70,r2,840,20,N,1,0,N,1,0,2,Y,N,"56,45",2,2,2,N,"Se tarda muchísimo en disparar cargos, solo puede llevar uno a la vez. Aprovechó para defender al 2854 cuando les pasó por delante y eso aportó muchísimo más de lo que hicieron el resto del match. "
+70,r3,5458,19,Y,0,2,Y,0,4,1,N,N,"30,42,43",N,,2,N,"Muy malos para buscar cargos, no los encuentran y pierden el tiempo paseándose por la cancha"
+70,b1,2144,17/29,Y,1,0,N,7,0,3,N,N,"16,21,5",N,,4,N,Se la vive pegado al perímetro de la cancha
+70,b2,7777,54,Y,0,0,N,0,1,3,N,N,54,2,,2,N,Terrible para recoger cargos. Le aleja un cargo al 5458 (rojo) pero creo que no fue a propósito. Se enganchó con el 199 (literalmente con sus ganchitos)
+70,b3,2854,53,Y,0,0,Y,9,0,0,N,N,"39,16,66,57",N,,4,N,Falla dos cargos en autónomo. Después de tirar no se mueven hasta ver si el cargo entró al hub o no
+71,r1,1351,19,Y,2,0,Y,6,0,7,N,N,"30,31,42,43",N,,5,N,Falla un cargo en autónomo. Incluso sin defensa sigue falland cargos
+71,r2,299,43,Y,0,0,N,0,0,0,Y,N,,2,2,3,Y,"Desconectan al 6918 de un golpe y ya no saben que hacer, intentan anotar cargos pero su shooter no sirve entonces sacan sus cargos a la cancha y se quedan bien perdidos. Se cuelgan de milagro, muy cerca del suelo, sus ganchos abren lento"
+71,r3,766,32,Y,0,0,N,0,0,0,Y,Y,,4,6,3,N,"Supo identificar la de debilidad del 4255 que se tenían que pegar al hub para tirar pero no lo aprovecharon del todo, se quitaban al contar 2 de pinning"
+71,b1,6918,30,Y,1,0,N,1,0,2,N,N,"16,53",4,,3,Y,"Se desconectan dos veces. Se van a colgar y les sobran 25 segundos, seguramente lo hicieron como prevención por si se volvían a desconectar"
+71,b2,192,17,Y,1,0,N,0,0,0,Y,Y,,N,7,4,N,Se quedaron con un cargo todo el match y en los últimos 15 segundos lo intentaron tirar y i siquiera lo pudieron lanzar. Fueron muuuy molestos para el 1351
+71,b3,4255,54,Y,0,0,N,4,1,1,N,N,"54,41",3,,4,N,"su autónomo estuvo raro, se estamparon con el 6918, a la altura del hangar. Se atoraron raro durante el climb en mid, se arregló justo a tiempo para llegar a high"
+72,r1,4171,56,N,0,0,N,0,0,0,N,N,,N,,6,N,No hizo nada durante el match. Intentando pegarle a citrus rompieron su propio intake
+72,r2,5507,19,Y,3,0,Y,7,0,1,N,N,"31,43,42",3,,9,N,"Tiene doble catapulta y cuando tira tiene que usar las dos. Eso puede causar problemas si trae cargos del otro color, le pasó pero se dieron cuenta antes de agarrar otro cargo"
+72,r3,1967,43,Y,0,2,Y,0,6,1,N,N,"42,43",2,,2,N,Tarda mucho en liberar sus ganchos
+72,b1,6814,41,Y,0,1,N,0,7,0,N,N,"30,42",N,,2,N,Se atoraron en el low rung y citrus les rescata. Tienen climb pasivo al estilo de everybot
+72,b2,1678,54,Y,4,0,Y,21,0,3,N,N,"53,16,6,21",4,,10,N,"Dios Coresetto está en todo, a los dos segundos que se atora en 6814 ya su drive team sabe que tiene que ir a sacarlos. Estoy 2000% seguro que su drive team entrena para agarrar los controles cuando acaba el autónomo, es algo increíble verles"
+72,b3,5027,30,Y,0,0,N,0,0,0,Y,N,,N,1,1,N,"""intentaron"" hacer defensa, se fueron a colgar faltando un minuto y ni se colgaron"
+73,r1,2035,43/32,Y,1,0,N,3,0,2,N,N,"68,57",2,,2,N,No tienen forma de rechazar cargos de otro color. Tuvieron 3 cargos dentro del robot 
+73,r2,4186,44/56,Y,2,0,Y,0,0,0,Y,N,,N,1,2,N,"Realmente no hizo nada en el match, solo retuvo dos cargos azules y por accidente agarro otro y los soltó todos y ya no hizo nada"
+73,r3,604,19,Y,3,0,Y,15,0,4,N,N,"45,57,21,9,7",4,,9,N,Traversal de milagro. Tardan 20 sec
+73,b1,6884,17/30,Y,0,0,N,11,0,1,N,N,"30,31,42",N,,5,N,Sacaron un cargo por la temrinal intentanto recogerlo
+73,b2,668,29,Y,0,0,N,3,1,7,N,N,27,N,,2,N,Falla cargo del autónomo. Se le salen los cargos después de agarrarlos
+73,b3,4990,42,Y,0,0,N,0,0,1,Y,N,42,N,1,3,N,Falla cargo de autónomo. No tenía la velocidad como para hacerle algo a quixilver y pues intentó anotar lo cual para nada se le da
+74,r1,8404,44/56,Y,0,0,Y,5,0,4,N,N,"57,45,33",4,,4,N,Falla cargo de autónomo. Sus ganchos se volvieron medio locos antes de entrar al hangar. Un climb muy clean comprado a todos los anteriores que ha tenido
+74,r2,751,44/32,Y,1,0,N,0,0,0,Y,N,,2,1,2,N,Caballea mucho si maneja despacito. Se le vayeron sus ojitos
+74,r3,7419,19,Y,2,0,Y,110,0,2,N,N,"7,9,21",N,,4,N,Fallan un cargo en autónomo
+74,b1,6418,17/30,Y,0,2,Y,0,8,0,N,N,"30,31",2,,3,N,los giros pequeños no se les dan bien
+74,b2,4669,41/29,Y,1,0,N,0,1,3,N,N,42,N,,1,N,"Intentaron tirar al upper hub pero no jaló y cambiaron a tirar al lower hub, tampoco jaló"
+74,b3,852,54,Y,0,0,Y,0,0,0,N,N,,N,,2,N,Falla dos cargos en autónomo. Entraron al hangar queriendo colgarse y uno de sus ganchos se atoró con el truss y mejor ya no se movieron
+75,r1,1072,56,Y,2,0,Y,11,0,0,N,N,"40,52,66,45",4,,7,N,Muy buena coordinación para no estorbarse con su alianza
+75,r2,254,19,Y,5,0,Y,23,0,8,N,N,"28,6,21,33,34,45",4,,10,N,"De nuevo Cheesy teniendo 3 cargos al mismo tiempo. Ahora fallaron mucho pero no por defensa, maybe deben calibrar bien la cámara"
+75,r3,8033,32,Y,1,0,N,0,0,0,Y,N,,N,3,9,N,"Muy rápidos, se nota que no saben defender pero la velocidad les ayuda muchísimo para darle pesadillas a Spartan pprque no se pueden escapar"
+75,b1,5171,17,Y,2,0,Y,3,1,4,N,N,"16,5,7",4,,5,N,Tenían muchos problemas para tirar
+75,b2,2489,29,Y,1,0,N,0,0,0,Y,Y,,N,5,3,N,Defendía al 1072 y hacía counter-defense al 8033 para darle chance a 971 de poder tirar
+75,b3,971,54,Y,5,0,Y,14,0,6,N,N,"7,21,57,39,16,66",N,,8,N,El 8033 los hizo sufrir con la defensa
